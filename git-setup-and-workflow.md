@@ -9,7 +9,6 @@ git config --global user.email "<email>"
 
 --- 
 
-```bash
 # 2. Create Project
 
 ```bash
