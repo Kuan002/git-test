@@ -152,7 +152,7 @@ git show <commit-id>
 --- 
 
 # Notes
-# - SSH authentication configured
-# - Repository successfully pushed and tracked
-# - Documentation updated incrementally
-# - Remote changes synchronized locally
+ - SSH authentication configured
+ - Repository successfully pushed and tracked
+ - Documentation updated incrementally
+ - Remote changes synchronized locally
